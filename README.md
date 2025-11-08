@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Banner.png" alt="Banner" width=100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm Akshatha Prabhu</h1>
 <h3 align="center">3rd-year Engineering student| Java & Web Dev Enthusiat</h3>
 
