@@ -1,4 +1,4 @@
-
+![banner](assets/Akshatha_profile.png)
 <h1 align="center">Hi 👋, I'm Akshatha Prabhu</h1>
 <h3 align="center">3rd-year Engineering student| Java & Web Dev Enthusiat</h3>
 
